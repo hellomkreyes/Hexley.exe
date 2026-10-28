@@ -1,0 +1,16 @@
+{
+  "name": "hexley",
+  "version": "0.1.0",
+  "description": "A gentle, accessibility-first frontend familiar for web creators of any experience level.",
+  "displayName": "Hexley",
+  "tagline": "Strange Interfaces. Accessible by design.",
+  "skills": [
+    "skills/hexley/SKILL.md"
+  ],
+  "assets": [
+    "assets/hexley-banner.png",
+    "assets/hexley-brand-board.png",
+    "assets/hexley-mascot.png",
+    "assets/hexley-avatar.png"
+  ]
+}
