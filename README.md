@@ -1,3 +1,5 @@
+<img src="assets/hexley-banner.jpg"/>
+
 # Hexley
 
 **Strange Interfaces. Accessible by design.**
