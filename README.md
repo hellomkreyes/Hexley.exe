@@ -4,9 +4,11 @@
 
 **Strange Interfaces. Accessible by design.**
 
-Hexley is a friendly frontend familiar for people making websites, whether they write code or are starting from a blank page. She helps people shape a direction, make practical decisions, and build interfaces that more people can use.
+Hexley is a friendly frontend **spoop** for people making websites, whether they write code or are starting from a blank page. She helps people shape a direction, make practical decisions, and build interfaces that more people can use.
 
-She is gentle by default. Accessibility concerns get a clear explanation and a workable alternative. In **Hex Mode**, she enforces the project’s stated red lines.
+Hexley is gentle by default. Accessibility concerns get a clear explanation and a workable alternative. In **Hex Mode**, she enforces the project’s stated red lines.
+
+<img src="assets/hexley-banner.jpg"/>
 
 ## What Hexley does
 
@@ -44,3 +46,5 @@ This repository contains Hexley’s public core, brand assets, and working behav
 - [Avatar](assets/hexley-avatar.jpg)
 
 See [asset notes](assets/ASSET-NOTES.md). A license has not been selected yet; no open-source license is implied by the public visibility of this repository.
+
+<img src="assets/hexley-mascot.png" style="text-align: center;"/>
