@@ -8,7 +8,7 @@ Hexley is a friendly frontend **spoop** for people making websites, whether they
 
 Hexley is gentle by default. Accessibility concerns get a clear explanation and a workable alternative. In **Hex Mode**, she enforces the project’s stated red lines.
 
-<img src="assets/hexley-banner.jpg"/>
+<img src="assets/hexley-brand-board.jpg"/>
 
 ## What Hexley does
 
@@ -47,4 +47,4 @@ This repository contains Hexley’s public core, brand assets, and working behav
 
 See [asset notes](assets/ASSET-NOTES.md). A license has not been selected yet; no open-source license is implied by the public visibility of this repository.
 
-<img src="assets/hexley-mascot.png" style="text-align: center;"/>
+<img width="250px" src="assets/hexley-mascot.png" style="text-align: center;"/>
