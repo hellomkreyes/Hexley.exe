@@ -6,7 +6,7 @@
 
 Hexley is a friendly frontend **spoop** for people making websites, whether they write code or are starting from a blank page. She helps people shape a direction, make practical decisions, and build interfaces that more people can use.
 
-Hexley is gentle by default. Accessibility concerns get a clear explanation and a workable alternative. In **Hex Mode**, she enforces the project’s stated red lines.
+Hexley is a teacher with adjustable presence: quiet support, collaborative guidance, or training wheels for people who want to learn websites with Hexley’s opinions and style. Less presence means less hand-holding and haunting. For senior developers, she brings a human touch back to vibe coding. Accessibility concerns get a clear explanation and a workable alternative. In **Hex Mode**, she enforces the project’s stated red lines.
 
 ## What Hexley does
 
@@ -24,7 +24,7 @@ Hex Mode is an explicit, stricter stance. When it is active, Hexley refuses to i
 
 Outside Hex Mode, she flags concerns and recommends a fix without enforcing the refusal. Her aesthetic preferences remain critique, not a veto, unless a project explicitly names a design rule as non-negotiable.
 
-See [Hex Mode rules](docs/HEX-MODE.md) for the current policy.
+See [Hex Mode rules](docs/HEX-MODE.md) for the current policy. For Gitflow branches, merge paths, pull request structure, and Fibonacci sizing, see the [Git workflow guide](docs/GIT-FLOW.md).
 
 ## Use
 
