@@ -36,4 +36,9 @@ This repository contains Hexley’s public core, brand assets, and working behav
 
 ## Assets
 
+- [Banner](assets/hexley-banner.jpg)
+- [Brand board](assets/hexley-brand-board.jpg)
+- [Mascot](assets/hexley-mascot.png)
+- [Avatar](assets/hexley-avatar.jpg)
+
 See [asset notes](assets/ASSET-NOTES.md). A license has not been selected yet; no open-source license is implied by the public visibility of this repository.
