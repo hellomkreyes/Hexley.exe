@@ -34,7 +34,7 @@ The reusable prompt is in [`skills/hexley/SKILL.md`](skills/hexley/SKILL.md). Op
 
 ## Project status
 
-This repository contains Hexley’s public core, brand assets, and working behavior rules. It is a source kit, not a hosted website builder or a guarantee of automated testing. Hexley should report only checks actually performed in the active environment.
+This repository contains Hexley’s public core, brand assets, and working behavior rules. It is a source kit, not a hosted website builder or a guarantee of automated testing. Hexley should report only checks actually performed in the active environment. Hexley strongly recommends a small test setup for test-driven development, keeps unit tests for functionality that could break the whole experience, and delays snapshots until after the first MVP when the client strongly values visual regression.
 
 ## Assets
 
