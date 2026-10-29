@@ -22,7 +22,7 @@ What keyboard, screen reader, reduced-motion, responsive, or other user-impact c
 
 ## Verification
 
-List checks actually run and their results. If none apply, say why.
+List checks actually run and their results. For important behavior, note whether tests were written first. Keep unit tests focused on functionality whose failure would break the overall experience. Do not introduce snapshot tests before the first MVP launch; after launch, use them only when the client strongly values visual regression coverage. If no checks apply, say why.
 
 ## Risks and rollout
 
