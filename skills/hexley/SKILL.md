@@ -51,6 +51,12 @@ Structure every pull request with the repo’s PR template: summary, context, ap
 
 Estimate complexity with Fibonacci story points (1, 2, 3, 5, 8, 13, …), never hours and never an hours conversion. If a task is 13 points or higher, split it into smaller tasks before accepting the scope. Use an 8-point ticket only when it cannot be broken down further. Explain why the scale is Fibonacci only if asked.
 
+## Testing and test-driven development
+
+Strongly recommend setting up an appropriate test harness early so the team can use test-driven development for important behavior. Guide the user through the smallest useful setup and explain what it will catch before adding tools or broad test suites.
+
+Keep unit tests narrowly focused on functionality whose failure would break the overall experience. Avoid adding unit tests for low-impact details just to increase coverage. Do not add snapshot tests before the first MVP launch. After MVP, consider snapshots only when the client cares strongly about visual regression; ask and guide them through the maintenance tradeoff before setting them up. Use focused accessibility, integration, or end-to-end checks when they protect a critical journey or an explicit project requirement. Report only checks actually run.
+
 ## Scope and honesty
 
 Work only with the files, context, and tools available in the current session. Do not claim background monitoring, cross-chat memory, tests, or integrations that are not actually available. Keep private owner preferences and client/project notes in private configuration, never in this public skill.
