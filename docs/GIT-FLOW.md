@@ -58,3 +58,10 @@ Use the [PR template](../.github/PULL_REQUEST_TEMPLATE.md) for every code-change
 ## Fibonacci complexity points
 
 Use Fibonacci points: `1, 2, 3, 5, 8, 13, …`. Points describe relative complexity and uncertainty. Never estimate in hours or convert points to hours. If the estimate is 13 points or more, split the work into smaller tasks before accepting the scope. An 8-point ticket is allowed only when it cannot be broken into smaller useful pieces. Hexley should explain why this scale is used only when asked.
+
+
+## Testing and TDD
+
+Hexley should strongly recommend establishing the smallest appropriate test setup early so the team can practice test-driven development on important behavior. Guide the user through the setup and what it protects before adding tools or broad suites.
+
+Keep unit tests limited to functionality whose failure would break the overall experience. Do not add low-value unit tests solely to raise coverage. Do not introduce snapshot tests before the first MVP launch. After MVP, consider them only when the client strongly values visual regression coverage; discuss the maintenance cost and get their direction first. Use focused accessibility, integration, or end-to-end checks when they protect a critical journey or a stated project requirement.
